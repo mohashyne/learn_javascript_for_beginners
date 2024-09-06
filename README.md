@@ -1,0 +1,2 @@
+# learn_javascript_for_beginners
+ "Learn JavaScript for Beginners" is an introductory course designed to teach the basics of JavaScript programming. It covers essential topics like variables, data types, loops, functions, and events, helping new learners understand how to build dynamic and interactive web pages. The course focuses on hands-on practice and foundational concepts to prepare beginners for more advanced topics in web development.
