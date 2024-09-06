@@ -70,10 +70,73 @@ If you want to download a single file, click on the file, then select the "Downl
 
 ---
 
-## 📞 Support
+# 🛠️ Tools and Extensions for Learning JavaScript
 
-If you have any questions or run into any issues, feel free to open an issue in this repository or join the discussion section. I’m happy to help!
+This guide provides the essential tools and extensions to start learning and practicing JavaScript.
 
 ---
 
-Thanks for joining this learning journey! Happy coding! 😊
+## 📚 Essential Tools:
+
+### 1. Code Editor
+To write and test your JavaScript code, you’ll need a code editor. The recommended one is:
+
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/): A powerful, free code editor with lots of features for JavaScript development.
+
+### 2. Web Browser
+JavaScript runs in web browsers, so having a good one is essential for testing your code.
+
+- [Google Chrome](https://www.google.com/chrome/): A popular browser with built-in developer tools for debugging JavaScript.
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/): Another excellent browser with great developer tools.
+
+### 3. Node.js
+Node.js allows you to run JavaScript outside of the browser, which is useful for server-side programming and running JavaScript tools.
+
+- [Download Node.js](https://nodejs.org/)
+
+---
+
+## 🧩 Recommended VS Code Extensions:
+
+### 1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
+A code formatter to keep your JavaScript code neat and consistent.
+
+### 2. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)  
+A linter to help you catch errors and follow best practices.
+
+### 3. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
+Launch a local server with live reloading, so your browser updates as soon as you save your files.
+
+### 4. [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)  
+Useful snippets to speed up coding with pre-written patterns.
+
+### 5. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)  
+Debug your JavaScript code directly in VS Code using Google Chrome.
+
+---
+
+## 🌐 Browser Developer Tools:
+
+Both Chrome and Firefox come with built-in developer tools for inspecting and debugging JavaScript:
+
+- **Chrome DevTools**: Right-click on a webpage and select **Inspect** or press `Ctrl + Shift + I`.
+- **Firefox Developer Tools**: Right-click on a webpage and select **Inspect** or press `Ctrl + Shift + I`.
+
+---
+
+## 🧪 Optional Learning Tools:
+
+### 1. [CodePen](https://codepen.io/)  
+An online code editor to practice JavaScript, HTML, and CSS in real time.
+
+### 2. [JSFiddle](https://jsfiddle.net/)  
+Another online code editor for quick experiments with HTML, CSS, and JavaScript.
+
+---
+
+## 📞 Support
+
+If you have any questions or issues, feel free to open an issue or join the discussion in the repository.
+
+Happy coding! 😊
+
